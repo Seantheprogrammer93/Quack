@@ -1,2 +1,2 @@
 # Quack
-A "Quack" is a data structure combining properties of both a stack and a queue.
+A Quack is a hybrid data structure that seamlessly supports both stack (LIFO) and queue (FIFO) operations.
